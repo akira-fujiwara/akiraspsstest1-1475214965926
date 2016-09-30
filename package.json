@@ -1,16 +1,17 @@
 {
-	"name": "NodejsStarterApp",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "node app.js"
-	},
-	"dependencies": {
-		"express": "4.13.x",
-		"cfenv": "1.0.x"
-	},
-	"repository": {},
-	"engines": {
-		"node": "4.x"
-	} 
+  "name": "akiraspsstest1",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cfenv": "1.0.x",
+    "express": "^4.13.4",
+    "request": "^2.75.0"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/akira-fujiwara/akiraspsstest1-1475214965926"
+  },
+  "engines": {
+    "node": "^0.10.26"
+  }
 }
